@@ -1,0 +1,18 @@
+# Ignore the following directories and files that Unity generates
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Tt]argets/
+[Bb]uild/
+[Ll]ogs/
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Windows installer files
+*.cab
+*.msi
